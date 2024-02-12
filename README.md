@@ -29,6 +29,10 @@ O notebook inclui as seguintes etapas principais:
 ## Resultados
 Este projeto aplicou algoritmos de RandomForest e XGBoost para abordar a manutenção preditiva em máquinas industriais, com foco especial na correção do desbalanceamento de classes utilizando a técnica SMOTE. A acurácia alcançada revela insights valiosos sobre o comportamento dos modelos em um contexto altamente variável e desafiador. Apesar das limitações, como a simplicidade dos modelos frente à complexidade dos padrões nos dados, os resultados são encorajadores e abrem caminho para investigações mais profundas.
 
+![image](https://github.com/gultes2023/Manutencao-Preditiva-SP-0-77/assets/131166618/ee027c7c-4cda-45bc-92fb-0caf44cfc500)
+
+![image](https://github.com/gultes2023/Manutencao-Preditiva-SP-0-77/assets/131166618/f61769bb-a88d-4aca-889e-a70079745676)
+
 ## Discussão e Melhorias Futuras
 A jornada para desenvolver uma solução de manutenção preditiva eficaz revelou desafios intrínsecos, como o desbalanceamento de classes e a complexidade na seleção e otimização dos modelos. A técnica SMOTE provou ser uma estratégia eficaz para mitigar o desbalanceamento, enquanto o uso dos algoritmos RandomForest e XGBoost foi justificado pela sua capacidade de processamento de dados de alta dimensionalidade e resistência a outliers.
 
